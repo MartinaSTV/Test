@@ -2,4 +2,4 @@
 
 namn: Johan 
 email
-namn 2 
+namn 2,4 
